@@ -1,0 +1,43 @@
+*{
+   box-sizing: border-box;
+}
+
+body {
+   font-family: 'Helvetica', sans-serif;
+}
+hr {
+   margin: 0px;
+}
+#app-container{
+   width: 450px;
+   margin-left: auto;
+   margin-right: auto;
+   border: 4px black solid;
+   padding: 40px;
+}
+.header h1 {
+   font-size: 28px;
+   margin-bottom: 4px;
+}
+
+.header h2 {
+   color: red;
+   font-size: 24 px;
+   font-weight: 200;
+   margin-top: 0px;
+   margin-bottom: 4px;
+}
+.header img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 340px;
+}
+.expo-info p{
+   margin: 30px;
+}
+
+.some-section {
+   /* border: 3px solid dodgerblue;
+   margin-bottom: 12px;
+}
